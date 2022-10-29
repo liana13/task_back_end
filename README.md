@@ -1,4 +1,4 @@
-# Laravel Test Project Foundarium
+# Laravel Test Project
 
 ## Installation
 
